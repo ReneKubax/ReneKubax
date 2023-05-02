@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 I am a software engineer<br>
+As a highly skilled full-stack software developer 💻. With several years of experience, I worked with top-tier software companies such as: Banks, Ecommerces, CRM and others across several countries in Latin America and the United States. Throughout my career, I have acquired proficiency in a wide range of cutting-edge technologies, including React, Angular, NodeJS, C++, PostgreSQL, MongoDB, and many more 👨‍💻. I am constantly looking for new challenges to further enhance my skills and experience in the rapidly evolving software development industry 🏅.
+
+If you are interested in my profile, you can contact me at therene21@gmail.com.<br>
 
 
 ## 🌐 Socials:
